@@ -1,3 +1,5 @@
-# E41201452_AHMAD-WILDAN_B-BONDOWOSO
+# WORKSHOP-SISTEM-INFORMASI-BERBASIS-DEKSTOP
 
-Seluruh source code dalam repository ini merupakan hasil dari tugas mata pelajaran Workshop Sistem Informasi Berbasis Dekstop yang di-coding melalui aplikasi Java NetBeans.
+REPOSITORY KHUSUS UNTUK PENGUMPULAN TUGAS-TUGAS MATA KULIAH WORKSHOP SISTEM INFORMASI BERBASIS DEKSTOP
+
+DI SUSUN OLEH, E41201452_AHMAD WILDAN_TIF - B BONDOWOSO
